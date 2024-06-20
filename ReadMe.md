@@ -72,7 +72,7 @@ EMsoft 5.0.X requires a build of the regular develop branch in the EMsoftSuperbu
         make -j
 
 
-Note that the Superbuild has been successfully installed on the arm64 M1 platform using XCode 13 on Monterey and XCode 14 on Ventura.
+Note that the Superbuild has been successfully installed on the arm64 M1 platform using Xcode 13 on Monterey, Xcode 14 on Ventura, and Xcode 15 on arm64 M3 Pro with Sonoma.
 
 ## Windows Instructions ##
 
